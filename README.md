@@ -1,3 +1,4 @@
+![logo](https://github.com/rjgoharali/rjgoharali/blob/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Raja Gohar</h1>
 <h3 align="center">Software Engineer | Website Developer | Front-End Developer | UI/UX Designer | Social Media Marketer | QA | Business Analyst</h3>
 
